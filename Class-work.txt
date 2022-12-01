@@ -1,0 +1,47 @@
+2. What does HTML stand for?  
+
+(Answer)
+Hypertext Markup Language.
+
+3. What does the <!DOCTYPE html> signify? 
+
+(Answer)
+ It is an "information" to the browser about what document type to expect.
+
+4. What is the root element of every web page? 
+  
+(Answer)
+<html>: The HTML Document / Root element. The <html> HTML element represents the root (top-level element) of an HTML document, so it is also referred to as the root element. All other elements must be descendants of this element.
+
+
+
+5.What does CSS stands for? 
+
+(Answer)
+Cascading style sheets
+
+
+6. What are the simple CSS Selectors? 
+
+(Answer)
+ Element selector, id selector, class selector and the universal selector.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
